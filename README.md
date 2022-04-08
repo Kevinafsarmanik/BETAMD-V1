@@ -67,3 +67,4 @@ Get Apikey betakey on [`betakey`](https://api-betabot.herokuapp.com)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
+* [`Sanzy`](https://github.com/sanzykawaii) untuk beberapa fitur dan api
