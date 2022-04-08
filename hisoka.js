@@ -832,6 +832,10 @@ https://github.com/ERLANRAHMAT`
                 hisoka.send5ButImg(m.chat, anu, hisoka.user.name, global.thumb, button)
             }
             break
+            case 'owner': case 'creator': {
+                hisoka.sendContact(m.chat, global.owner, m)
+            }
+            break
              case 'tes': {
                 m.reply('Bot Online🤖')
             }
